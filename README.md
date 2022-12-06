@@ -40,7 +40,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file testAPP.xcodeproj and run de project
+Open the file TestNetworkService.xcodeproj and run de project
 
 ### Prerequisites
 
